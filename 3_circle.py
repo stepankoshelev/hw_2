@@ -1,5 +1,9 @@
 import turtle
 
 
-def circle():
-    turtle.shape('turtle')
+
+turtle.circle(45)
+
+
+
+turtle.done()
